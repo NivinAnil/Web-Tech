@@ -72,8 +72,6 @@
 <br>
 ```
 
-
-
 - Break tag is used to break the line
   > ![break tag](break%20tag.PNG)
 
