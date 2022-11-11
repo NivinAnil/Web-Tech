@@ -1,8 +1,13 @@
-# Basic Tages in HTML
+# Basic Tags in HTML
 
-## Heading Tages
+## Heading Tags
 
-```HTML
+- In HTML, to display different levels of headings Heading Tags are used.
+- There are 6 levels of heading tags i.e \<hl>, \<h2>,\<h3>,\<h4>,\<h5> and \<h6>.
+- All of these tags are used to display different levels of headings.
+- \<hl> tag is used to display the most important headings and \<h6> tag is used to display the least important headings in the webpage.
+
+```html
 <h1>h1</h1>
 <h2>h2</h2>
 <h3>h3</h3>
@@ -13,20 +18,22 @@
 
 ### output
 
-![](heading%20tags.PNG)
+  <h1>h1</h1>
+  <h2>h2</h2>
+  <h3>h3</h3>
+  <h4>h4</h4>
+  <h5>h5</h5>
+  <h6>h6</h6>
 
-- In HTML, to display different levels of headings Heading Tags are used.
-- There are 6 levels of heading tags i.e \<hl>, \<h2>,\<h3>,\<h4>,\<h5> and \<h6>.
-- All of these tags are used to display different levels of headings.
-- \<hl> tag is used to display the most important headings and \<h6> tag is used to display the least important headings in the webpage.
+---
 
-## Paragraph Tage
+## Paragraph Tag
 
 ```HTML
 <p></p>
 ```
 
-## Pre-Formated Tage
+## Pre-Formatted Tag
 
 ```HTML
 <pre></pre>
@@ -42,10 +49,14 @@
 ## Anchor Tag
 
 ```HTML
-<a href="url"> text </a>
+<a href="https://www.google.co.in/"> Google </a>
 ```
 
+#### output
+
 <a href="https://www.google.co.in/"> Google </a>
+
+---
 
 ### Notes :
 
@@ -54,7 +65,7 @@
 - **Attributes** are used in the open tags of any tags.
 - href attribute in anchor tag is used to link the Webpage for the given hyper text.
 
-### Inline and block Tags
+## Inline and block Tags
 
 - **Block level tag** are such tags which will start the contents in the new line. Block level tags will
   automatically give the line break.
@@ -66,7 +77,11 @@
 > Example : \<p> is block tag and \<a> is inline tag
 > ![](inline%20and%20block%20tags.PNG)
 
+---
+
 ## Break Tag
+
+---
 
 ```HTML
 <br>
@@ -75,7 +90,11 @@
 - Break tag is used to break the line
   > ![break tag](break%20tag.PNG)
 
+---
+
 ## Horizontal Rule Tag
+
+---
 
 ```HTML
 <hr>
