@@ -212,17 +212,20 @@
 "yyyy-mm-dd"
 ```
 
-#### Example
-
-   <input type="date" min="1999-01-01" max="2010-01-01">
+- example
+  ```html
+  <input type="date" min="1999-01-01" max="2010-01-01" />
+  ```
+  <input type="date" min="1999-01-01" max="2010-01-01">
 
 ---
 
-1. Dropdown Box / Select Box
+## Dropdown Box / Select Box
+
 <form>
 <h4>Select Country: </h4>
 <label>Country</label>
-<select  required >
+<select >
 <option >Select</option>
 <option >India</option>
 <option >Japan</option>
@@ -232,37 +235,198 @@
 <input type="submit">
 </form>
 
-1. Radio Button
+## Radio Button
 
-<input type="radio"><label>Male</label>
-<input type="radio"><label>Female</label>
+- In the input tag "type" attribute must be specified as "radio" for creating the radio button.
 
-1. Reset Button
+- While creating the radio button "name" attribute must be same for all the radio buttons such that it will allow us to select only one radio button at a time.
 
-<input type="reset">
-
-1. Submit Button
-
+<form>
+<input type="radio" name="gender"><label>Male</label>
+<input type="radio" name="gender"><label>Female</label>
+<input type="radio" name="gender"><label>Other</label>
+<input type="reset"> 
 <input type="submit">
+</form>
 
-1. File Button
+---
 
-<input type="file">
+## Reset Button
 
-1. TextArea Box
+- Reset button will reset all the form value to default/ initial values.
+- In the input tag type attribute must be specified with "rest" to create the rest button.
 
+```html
+<form>
+  <input type="text" placeholder="name" />
+  <input type="reset" />
+</form>
+```
+
+<form>
+<input type="text" placeholder="name">
+<input type="reset">
+</form>
+
+---
+
+## File Button/ Upload Button
+
+- In the input tag type attribute should be specified as 'file' to create the upload button
+
+```html
+<form>
+  <input type="file" placeholder="name" />
+  <input type="reset" />
+</form>
+```
+
+<form>
+<input type="file" placeholder="name">
+<input type="reset">
+</form>
+
+## TextArea Box
+
+- \<textarea> tag is used to create textarea in the web.
+- textarea can be used for writing the comments or address etc.
+- we can add a paragraph in a textarea. Textarea can be resized.
+
+```html
+<form>
+  <textarea rows="4" cols="50">This is a TextArea</textarea>
+  <br />
+  <input type="reset" />
+  <input type="submit" />
+</form>
+```
+
+<form>
 <textarea rows="4" cols="50">
 This is a TextArea
 </textarea>
-
-1. Search Box
+<br>
+<input type="reset">
+<input type="submit">
+</form>
+## Search Box
 
 <input type="search">
 
-1. Range Box
+## Range Box
 
-<input type="range" max="200" min="10">
+```html
+<form>
+  <input type="range" />
+</form>
+```
 
-1. Color Box
+<form>
+  <input type="range"/>
+</form>
 
-   <input type="color" >
+## Submit Button
+
+```html
+<form>
+  <input type="text" placeholder="name" />
+  <input type="submit" />
+</form>
+```
+
+<form>
+<input type="text" placeholder="name">
+<input type="submit">
+</form>
+
+## Color Box
+
+```html
+<form>
+  <input type="color" />
+  <input type="submit" />
+</form>
+```
+
+<form>
+  <input type="color" />
+  <input type="submit" />
+</form>
+
+## time box
+
+```html
+<form>
+  <input type="time" />
+</form>
+```
+
+<form>
+<input type="time">
+</form>
+## Date and Time box
+
+```html
+<form>
+  <input type="datetime-local" />
+</form>
+```
+
+<form>
+<input type="datetime-local">
+</form>
+
+## Fieldset
+
+## Legend
+
+## Iframe
+
+- iframe tag is used to add or embed eternal source in owr webpage.
+- by default iframe will have the border,
+  - remove border using
+    - frameborder="no" and
+    - scrolling="no"
+  - set size using attributes
+    - height and
+    - width
+
+```html
+<iframe
+  src="https://png.pngtree.com/background/20210712/original/pngtree-neon-double-color-futuristic-frame-colorful-background-picture-image_1178693.jpg"
+  hight="300"
+  width="500"
+>
+</iframe>
+```
+
+<iframe
+  src="https://png.pngtree.com/background/20210712/original/pngtree-neon-double-color-futuristic-frame-colorful-background-picture-image_1178693.jpg" 
+  hight="300"
+  width="500"
+> 
+</iframe>
+
+### assignment :
+
+- iframe assignment : historical place
+  - image of place
+  - map
+
+## Web Browser:
+
+Web browser is a platform where we can access the web applications. eg: chrome, firefox, IE, safari, opera.
+
+## Web Application:
+
+Web Application is a collection of different webpages. WebApplication is made up of 3 layers i.e. front-end, back-end
+and the database. Eg: amazon.com, flipkart.com etc
+
+## Webpage:
+
+Webpage is a page which is viewed in the browser. Every webpage is designed using HTML. Collection of webpages
+forms a web application.
+
+## WebElement:
+
+Every elements or the contents in the webpage is a WebElement. A Webpage is a collection of different WebElements.
