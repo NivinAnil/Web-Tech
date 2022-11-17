@@ -204,7 +204,11 @@
 - Using "mint' and "max" attribute we can set the minimum and maximum dates to be displayed in the calender.
 - While specifying the value for min and max attribute "yyyy-mm-dd" format must be used.
 
-  <input type="date">
+```html
+<input type="date" />
+```
+
+<input type="date">
 
 ### Min Max format
 
@@ -222,6 +226,21 @@
 
 ## Dropdown Box / Select Box
 
+```html
+<form>
+  <h4>Select Country:</h4>
+  <label>Country</label>
+  <select>
+    <option>Select</option>
+    <option>India</option>
+    <option>Japan</option>
+    <option>UK</option>
+    <option>USA</option>
+  </select>
+  <input type="submit" />
+</form>
+```
+
 <form>
 <h4>Select Country: </h4>
 <label>Country</label>
@@ -234,6 +253,8 @@
 </select>
 <input type="submit">
 </form>
+
+---
 
 ## Radio Button
 
@@ -364,6 +385,7 @@ This is a TextArea
 <form>
 <input type="time">
 </form>
+
 ## Date and Time box
 
 ```html
