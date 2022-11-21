@@ -40,8 +40,6 @@
 - Id selector provides unique id to the html elements by using id attribute.
 - Id selector is represented using #.
 
-#KOD123
-
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -133,7 +131,7 @@ on the group style is applied.
   <body>
     <h3 class="augesta3">Element Selector</h3>
     <p class="augesta2">
-      <u>Element selector</u> is used to select the html elements based on the
+      <u> Element selector </u> is used to select the html elements based on the
       element name.
     </p>
     <h3>Group Selector</h3>
