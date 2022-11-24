@@ -1,1 +1,4 @@
 *.code-workspace
+temp.html
+.vscode
+diagrams/

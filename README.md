@@ -1,5 +1,3 @@
 # Web-Tech
 
-<!-- [Basic Tages](HTML/1.%20Basic%20Tages/README.md#20block) -->
-
-[Example](HTML/1.%20Basic%20Tages/README.md)
+[Example](HTML/0.%20Introduction/README.md#Introduction%20to%20Web%20Tech)
