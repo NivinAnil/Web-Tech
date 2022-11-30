@@ -31,7 +31,7 @@ document.write(y + " ");
 
 ### Output :
 
-![](variables.png)
+![](img/variables.png)
 
 # Redefining the variable inside the scope
 
@@ -48,7 +48,7 @@ document.write(y + " ");
 
 > ### Output
 >
-> ![](var%20redefine.PNG)
+> ![](img/var%20redefine.PNG)
 
 ## let
 
@@ -63,7 +63,7 @@ document.write(y + " ");
 
 > ### Output
 >
-> ![](let%20redefine.PNG)
+> ![](img/let%20redefine.PNG)
 
 ## const
 
@@ -78,7 +78,7 @@ document.write(y + " ");
 
 > ### Output
 >
-> ![](const%20redefine.PNG)
+> ![](img/const%20redefine.PNG)
 
 # Reinitializing the variable inside the scope
 
@@ -95,7 +95,7 @@ document.write(y + " ");
 
 > ### Output
 >
-> ![](var%20reinitialization.PNG)
+> ![](img/var%20reinitialization.PNG)
 
 ## let
 
@@ -110,7 +110,7 @@ document.write(y + " ");
 
 > ### Output
 >
-> ![](let%20reinitialization.PNG)
+> ![](img/let%20reinitialization.PNG)
 
 ## const
 
@@ -125,7 +125,7 @@ document.write(y + " ");
 
 > ### Output
 >
-> ![](const%20reinitialization.PNG)
+> ![](img/const%20reinitialization.PNG)
 
 ## Defrences
 
@@ -174,7 +174,7 @@ console.log(n);
 console.log(typeof n);
 ```
 
-![](Number.PNG)
+![](img/Number.PNG)
 
 ## String
 
@@ -196,7 +196,7 @@ console.log(s3);
 console.log(typeof s3);
 ```
 
-![](String.PNG)
+![](img/String.PNG)
 
 ## Boolean
 
@@ -206,15 +206,17 @@ console.log(b);
 console.log(typeof b);
 ```
 
-![](Boolean.PNG)
+![](img/Boolean.PNG)
 
 ## Null
 
 ```js
 var s;
-console.log(s); //null
-console.log(typeof s); //object
+console.log(s);
+console.log(typeof s);
 ```
+
+![](img/Null.PNG)
 
 ## Undefined
 
@@ -224,7 +226,7 @@ console.log(s);
 console.log(typeof s);
 ```
 
-![](undifined.PNG)
+![](img/undifined.PNG)
 
 ## Array
 
@@ -234,4 +236,4 @@ console.log(a);
 console.log(typeof a);
 ```
 
-![](Array.PNG)
+![](img/Array.PNG)
