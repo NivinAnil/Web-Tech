@@ -1,3 +1,13 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Contents**
+
+- [Pseudo Class Element Selector](#pseudo-class-element-selector)
+  - [Example](#example)
+    - [Output](#output)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Pseudo Class Element Selector
 
 - link

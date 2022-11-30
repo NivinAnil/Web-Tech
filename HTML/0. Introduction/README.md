@@ -1,3 +1,19 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Contents**
+
+- [Introduction to Web Tech](#introduction-to-web-tech)
+  - [Different types of Application](#different-types-of-application)
+    - [Web Application](#web-application)
+  - [Architecture of Web Application](#architecture-of-web-application)
+  - [HTML (Hyper Text Markup Language)](#html-hyper-text-markup-language)
+    - [Difference between Markup and Programming Language](#difference-between-markup-and-programming-language)
+- [Tags in HTML](#tags-in-html)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+
+
 # Introduction to Web Tech
 
 ## Different types of Application
@@ -42,14 +58,14 @@ Example of web application:
 | Input : 5+5                       | Input : 5+5                            |
 | Output : 5+5                      | Output : 10                            |
 | Computation is not performed      | Computation is performed               |
-| presentation of data is important |                                        |
+| Presentation of data is important |                                        |
 | Example : HTML, XML, XHTML, SGML  | Example : Java, C++, Python, .net, etc |
 
 ---
 
 <br>
 
-### Tags in HTML
+# Tags in HTML
 
 ---
 

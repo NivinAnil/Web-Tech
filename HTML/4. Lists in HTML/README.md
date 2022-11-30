@@ -1,3 +1,22 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Contents**
+
+- [Lists in HTML](#lists-in-html)
+  - [Ordered List](#ordered-list)
+    - [Example](#example)
+    - [Ordered List : Types of Markup Languages](#ordered-list--types-of-markup-languages)
+    - [Output](#output)
+  - [UnOrdered List](#unordered-list)
+    - [Example](#example-1)
+    - [Unordered List: Types of Programming Languages](#unordered-list-types-of-programming-languages)
+    - [Output :](#output-)
+  - [Definition list/ Description list](#definition-list-description-list)
+    - [Description List or Definition List](#description-list-or-definition-list)
+    - [Output :](#output--1)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Lists in HTML
 
 List in HTML is used to group the similar elements together in the webpage.

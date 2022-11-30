@@ -1,3 +1,16 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Contents**
+
+- [Animation](#animation)
+    - [Output](#output)
+  - [Example 2](#example-2)
+    - [Output](#output-1)
+  - [Notes](#notes)
+  - [Syntax for creating animation in css](#syntax-for-creating-animation-in-css)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Animation
 
 ```html

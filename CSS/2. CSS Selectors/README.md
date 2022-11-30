@@ -1,3 +1,17 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Contents**
+
+- [CSS Selectors](#css-selectors)
+  - [1. Universal Selector](#1-universal-selector)
+    - [HTML](#html)
+  - [2. Id Selector](#2-id-selector)
+  - [3. Class Selector](#3-class-selector)
+  - [Element Selector](#element-selector)
+  - [Group Selector](#group-selector)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # CSS Selectors
 
 <dd>CSS Selectors is used to select a perticular html element and based on the selection style is applied</dd>

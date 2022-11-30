@@ -1,3 +1,13 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Contents**
+
+- [VSCode](#vscode)
+  - [Steps to install VS code](#steps-to-install-vs-code)
+  - [Install "Live Server" in VS code](#install-live-server-in-vs-code)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # VSCode
 
 ## Steps to install VS code

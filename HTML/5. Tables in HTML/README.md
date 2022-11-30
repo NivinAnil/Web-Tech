@@ -1,3 +1,21 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Contents**
+
+- [Tables in HTML](#tables-in-html)
+  - [Table Tag in HTML](#table-tag-in-html)
+    - [Example](#example)
+    - [Output :](#output-)
+  - [colspan attribute](#colspan-attribute)
+    - [Example](#example-1)
+    - [Output :](#output--1)
+  - [colspan attribute](#colspan-attribute-1)
+    - [Example](#example-2)
+    - [Output :](#output--2)
+- [Assignment](#assignment)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Tables in HTML
 
 ![](table.PNG)

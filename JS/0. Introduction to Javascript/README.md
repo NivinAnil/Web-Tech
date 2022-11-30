@@ -1,3 +1,17 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Contents**
+
+- [Introduction to Javascript](#introduction-to-javascript)
+  - [Advantages of Javascript](#advantages-of-javascript)
+  - [Internal javascript](#internal-javascript)
+    - [output :](#output-)
+  - [External Javascript](#external-javascript)
+    - [Demo.js](#demojs)
+    - [first.html](#firsthtml)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Introduction to Javascript
 
 - **HTML** is used to add the content in the web page.

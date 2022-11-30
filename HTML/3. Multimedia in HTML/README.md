@@ -1,3 +1,14 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Contents**
+
+- [Multimedia in HTML](#multimedia-in-html)
+  - [Note](#note)
+    - [Unpaired Tag / Singleton Tag](#unpaired-tag--singleton-tag)
+    - [Paired Tag](#paired-tag)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Multimedia in HTML
 
 1. Image Tag

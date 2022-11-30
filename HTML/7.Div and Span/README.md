@@ -1,3 +1,16 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Contents**
+
+- [Div](#div)
+    - [Code](#code)
+- [Span Tag](#span-tag)
+  - [Example](#example)
+    - [Code](#code-1)
+    - [Output](#output)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Div
 
 <dd>Its used to create a block of content in the web page.</dd>

@@ -1,3 +1,32 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Contents**
+
+- [Variables and Datatypes in Javascript](#variables-and-datatypes-in-javascript)
+  - [Statically typed language and Dynamically typed languages](#statically-typed-language-and-dynamically-typed-languages)
+  - [Variables in Javascript](#variables-in-javascript)
+    - [Example](#example)
+    - [Output :](#output-)
+- [Redefining the variable inside the scope](#redefining-the-variable-inside-the-scope)
+  - [var](#var)
+  - [let](#let)
+  - [const](#const)
+- [Reinitializing the variable inside the scope](#reinitializing-the-variable-inside-the-scope)
+  - [var](#var-1)
+  - [let](#let-1)
+  - [const](#const-1)
+  - [Defrences](#defrences)
+  - [Note:](#note)
+- [Datatype](#datatype)
+  - [Number](#number)
+  - [String](#string)
+  - [Boolean](#boolean)
+  - [Null](#null)
+  - [Undefined](#undefined)
+  - [Array](#array)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Variables and Datatypes in Javascript
 
 ## Statically typed language and Dynamically typed languages

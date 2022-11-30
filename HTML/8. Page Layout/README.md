@@ -1,3 +1,19 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Contents**
+
+- [Page Layout](#page-layout)
+- [Semantic tags](#semantic-tags)
+    - [Example :](#example-)
+  - [Header](#header)
+  - [Nav](#nav)
+  - [Section](#section)
+  - [Article](#article)
+  - [Aside](#aside)
+  - [Footer](#footer)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Page Layout
 
 ![](Page%20Layout.png)

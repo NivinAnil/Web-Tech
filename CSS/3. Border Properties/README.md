@@ -1,3 +1,40 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Contents**
+
+- [Border Properties](#border-properties)
+    - [Example](#example)
+    - [ Solid  
+     Dotted  
+     Ridge  
+     Groove  
+     Dashed  
+     Mixed  
+  ](#solid--%0A-----dotted--%0A-----ridge--%0A-----groove--%0A-----dashed--%0A-----mixed)
+    - [](#)
+    - [](#-1)
+    - [](#-2)
+    - [](#-3)
+    - [](#-4)
+    - [](#-5)
+    - [](#-6)
+    - [](#-7)
+    - [](#-8)
+    - [](#-9)
+    - [](#-10)
+    - [Output :](#output-)
+  - [Border Radius](#border-radius)
+    - [Example](#example-1)
+    - [ Border Radius  
+     Border Radius  
+  ](#border-radius--%0A-----border-radius)
+    - [](#-11)
+    - [](#-12)
+    - [](#-13)
+    - [Output :](#output--1)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Border Properties
 
     border: <thickness> <border type> <color>;

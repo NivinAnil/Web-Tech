@@ -1,3 +1,38 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Contents**
+
+- [Form in HTML](#form-in-html)
+  - [Form Elements/ Fields](#form-elements-fields)
+  - [Text Box](#text-box)
+    - [Pattern](#pattern)
+  - [Email Box](#email-box)
+  - [Password Box](#password-box)
+  - [Number Box](#number-box)
+  - [Checkbox](#checkbox)
+  - [Calender / Calender Box](#calender--calender-box)
+    - [Min Max format](#min-max-format)
+  - [Dropdown Box / Select Box](#dropdown-box--select-box)
+  - [Radio Button](#radio-button)
+  - [Reset Button](#reset-button)
+  - [File Button/ Upload Button](#file-button-upload-button)
+  - [TextArea Box](#textarea-box)
+  - [Range Box](#range-box)
+  - [Submit Button](#submit-button)
+  - [Color Box](#color-box)
+  - [time box](#time-box)
+  - [Date and Time box](#date-and-time-box)
+  - [Fieldset](#fieldset)
+  - [Legend](#legend)
+  - [Iframe](#iframe)
+    - [assignment :](#assignment-)
+  - [Web Browser:](#web-browser)
+  - [Web Application:](#web-application)
+  - [Webpage:](#webpage)
+  - [WebElement:](#webelement)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Form in HTML
 
 ## Form Elements/ Fields

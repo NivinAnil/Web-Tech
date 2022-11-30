@@ -1,11 +1,31 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**
+
+- [Basic Tags in HTML](#basic-tags-in-html)
+  - [Heading Tags](#heading-tags)
+    - [output](#output)
+  - [Paragraph Tag](#paragraph-tag)
+  - [Pre-Formatted Tag](#pre-formatted-tag)
+    - [Difference between \<p> and \<pre>](#difference-between-%5Cp-and-%5Cpre)
+  - [Anchor Tag](#anchor-tag)
+    - [Notes :](#notes-)
+  - [Inline and block Tags](#inline-and-block-tags)
+  - [Break Tag](#break-tag)
+  - [Horizontal Rule Tag](#horizontal-rule-tag)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+
+
 # Basic Tags in HTML
 
 ## Heading Tags
 
 - In HTML, to display different levels of headings Heading Tags are used.
-- There are 6 levels of heading tags i.e \<hl>, \<h2>,\<h3>,\<h4>,\<h5> and \<h6>.
+- There are 6 levels of heading tags i.e `<hl>`, `<h2>`,`<h3>`,`<h4>`,`<h5>` and `<h6>`.
 - All of these tags are used to display different levels of headings.
-- \<hl> tag is used to display the most important headings and \<h6> tag is used to display the least important headings in the webpage.
+- `<hl>` tag is used to display the most important headings and `<h6>` tag is used to display the least important headings in the webpage.
 
 ```html
 <h1>h1</h1>

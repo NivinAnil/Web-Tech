@@ -1,3 +1,30 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Contents**
+
+  - [
+  Welcome to HTML and CSS
+](#welcome-to-html-and-css)
+- [CSS (Cascading Style Sheet)](#css-cascading-style-sheet)
+  - [Syntax](#syntax)
+- [Basic CSS Styling Properties](#basic-css-styling-properties)
+  - [Color](#color)
+  - [Font Family](#font-family)
+  - [Text Align](#text-align)
+  - [Font Size](#font-size)
+  - [Background Color](#background-color)
+  - [Border](#border)
+    - [Example](#example)
+- [Types of CSS](#types-of-css)
+  - [Inline CSS](#inline-css)
+    - [Example](#example-1)
+  - [Internal CSS](#internal-css)
+  - [External CSS](#external-css)
+    - [Example](#example-2)
+    - [Notes](#notes)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # CSS (Cascading Style Sheet)
 
 ## Syntax
