@@ -1,16 +1,8 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Contents**
 
-- [Web-Tech](#web-tech)
-  - [Index by Topic](#index-by-topic)
-  - [Indexed by Date](#indexed-by-date)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 # Web-Tech
 
-## Index by Topic
+## Indexed by Topic
 - ## HTML
     1. ### [Introduction](HTML/0.%20Introduction/)
     1. ### [Basic Tags](HTML/1.%20Basic%20Tags/)
