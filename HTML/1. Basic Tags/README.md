@@ -1,9 +1,12 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**
+**Contents**
 
 - [Basic Tags in HTML](#basic-tags-in-html)
   - [Heading Tags](#heading-tags)
+- [h1](#h1)
+  - [h2](#h2)
+    - [h3](#h3)
     - [output](#output)
   - [Paragraph Tag](#paragraph-tag)
   - [Pre-Formatted Tag](#pre-formatted-tag)
