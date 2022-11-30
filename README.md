@@ -4,7 +4,7 @@
 
 | Date     | Title                                                            |
 | -------- | ---------------------------------------------------------------- |
-|          | [Introduction to HTML](HTML/0.%20Introduction/README.md)         |
+|          | [Introduction to HTML](HTML/0.%20Introduction/)         |
 | 31/10/22 | [Basic Tags](HTML/1.%20Basic%20Tags/README.md)                   |
 | 02/11/22 | [Text Formatting](HTML/2.%20TextFormatting/README.md)            |
 | 03/11/22 | [Multimedia in HTML](HTML/3.%20Multimedia%20in%20HTML/README.md) |
