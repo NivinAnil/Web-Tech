@@ -19,3 +19,56 @@
 1. Validation and action can be performed in the font end.
 1. Validation and action can be performed in the font end.
 1. Using Javascript we can manipulate Html and css.
+
+## Internal javascript
+
+1. For creating Internal Javascript code, Html provides `<script>` tag.
+1. `<script>` tag is a paired tag and it is preferable to use `<script>` tag inside the `<body>` tag.
+1. In Javascript, browser body is called as "Document".
+
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Document</title>
+  </head>
+  <body>
+    <p>Welcome to HTML and Css--HTML</p>
+    <script>
+      document.write("Welcome to Javascript!!");
+    </script>
+  </body>
+</html>
+```
+
+### output :
+
+![](output.PNG)
+
+## External Javascript
+
+1. External Javascript file is stored with the `.js` extension
+1. In the html file , external javascript file is linked using the following syntax:
+
+`<script src="filename.js"></script>`
+
+### Demo.js
+
+```js
+document.write("Welcome to Javascript");
+```
+
+### first.html
+
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Document</title>
+  </head>
+  <body>
+    <p>Welcome to HTML and Css--HTML</p>
+    <script src="Demo.js"></script>
+  </body>
+</html>
+```
