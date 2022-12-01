@@ -50,7 +50,7 @@
 
 ### Output
 
-![](Animation1.gif)
+![](gif/Animation1.gif)
 
 ## Example 2
 
@@ -107,7 +107,7 @@
 
 ### Output
 
-![](Animation2.gif)
+![](gif/Animation2.gif)
 
 ## Notes
 

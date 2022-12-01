@@ -15,16 +15,6 @@
 1. background-repeat
 
 ```html
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <title>Document</title>
-    <style></style>
-  </head>
-  <body></body>
-</html>
-```
-
 <html lang="en">
 <head>
     <title>Document</title>
@@ -41,7 +31,7 @@
         }
         .p:hover{
             background-color: aqua;
-            background—image: url ("img2.jpg") ;
+            background—image: url ("img/img2.jpg") ;
         }
     </style>
 </head>
@@ -49,6 +39,9 @@
     <p class="p">Welcome to web technologies: HTML CSS and Javascript</p>
 </body>
 </html>
+```
+
+
 
 ## Notes
 

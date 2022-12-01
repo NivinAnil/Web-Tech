@@ -4,7 +4,8 @@
 
 - [Border Properties](#border-properties)
     - [Example](#example)
-    - [ Solid  
+    - [ 
+     Solid  
      Dotted  
      Ridge  
      Groove  
@@ -131,7 +132,7 @@
 
 ## Border Radius
 
-![](border%20Radius.PNG)
+![](img/border%20Radius.PNG)
 
 ### Example
 

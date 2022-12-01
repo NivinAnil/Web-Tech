@@ -29,7 +29,7 @@
 
 ## Syntax
 
-![](syntax.PNG)
+![](img/syntax.PNG)
 
 # Basic CSS Styling Properties
 
@@ -193,15 +193,15 @@ border: solid"
 
 > ### Output
 >
-> ![](internal.PNG)
+> ![](img/internal.PNG)
 
 ## External CSS
 
-![](external%20css.PNG)
+![](img/external%20css.PNG)
 
 ### Example
 
-![](homepage.PNG)
+![](img/homepage.PNG)
 
 ### Notes
 

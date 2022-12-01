@@ -10,7 +10,7 @@
 
 # Margin And Padding
 
-![](margin%20and%20padding.png)
+![](img/margin%20and%20padding.png)
 
 <!DOCTYPE html>
 <html lang="en">

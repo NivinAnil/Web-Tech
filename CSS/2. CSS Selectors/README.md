@@ -24,7 +24,7 @@
 ## 1. Universal Selector
 
 - Universal selector is used to select all the elements in the webpage
-- Universal selector is represented using \*
+- Universal selector is represented using `*`
 
 ### HTML
 
@@ -85,7 +85,7 @@
 
 - Class Selector is used to classify more than one html elements and based on the class, style is applied.
 - Class attribute is used to classify the elements.
-- Class selector is represented using .(dot)
+- Class selector is represented using `.`
 
 ```html
 <!DOCTYPE html>
