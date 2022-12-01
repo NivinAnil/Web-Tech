@@ -15,7 +15,7 @@ console.log(n-m)
 console.log(n*m)
 console.log(n/m)
 ```
-![](img/Arthmetic.PNG)
+![](Arthmetic.PNG)
 
 ## 2. Relational Operators
 ### Example
@@ -32,7 +32,7 @@ console.log(a == b)
 console.log(a >= 200)
 ```
 
-![](img/Relational.PNG)
+![](Relational.PNG)
 
 ## Logical Operators
 ### Example
@@ -44,7 +44,7 @@ console.log(a > b || b == a);
 console.log(a <= b && b != a);
 console.log(a <= b || b == a);
 ```
-![Logical](img/Logical.PNG)
+![Logical](Logical.PNG)
 
 ## Ternary Operator
 
@@ -66,7 +66,7 @@ console.log(z);
 var z = (x<=y && y==x) ? "y-20" : "x+y"
 console.log(z);
 ```
-![](img/Ternary.PNG)
+![](Ternary.PNG)
 
 ## String Operator
 
@@ -78,4 +78,4 @@ console.log(100 + null);
 console.log(100 - "Raj");
 console.log(100 - null);
 ```
-![](img/String.PNG)
+![](String.PNG)
