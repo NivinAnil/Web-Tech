@@ -38,7 +38,7 @@
   </div>
 </div>
 ```
-![](div.PNG)
+![](img/div.PNG)
 # Span Tag
 
 ## Example
@@ -64,4 +64,4 @@
 
 ### Output
 
-![](google.PNG)
+![](img/google.PNG)

@@ -9,13 +9,13 @@
 ## 1. Arithmetic Operators
 ### Example
 ```js
-var n=100,m=20
-console.log(n+m)
-console.log(n-m)
-console.log(n*m)
-console.log(n/m)
+var n = 100,m = 20
+console.log(n + m)
+console.log(n - m)
+console.log(n * m)
+console.log(n / m)
 ```
-![](Arthmetic.PNG)
+![](img/Arthmetic.PNG)
 
 ## 2. Relational Operators
 ### Example
@@ -32,7 +32,7 @@ console.log(a == b)
 console.log(a >= 200)
 ```
 
-![](Relational.PNG)
+![](img/Relational.PNG)
 
 ## Logical Operators
 ### Example
@@ -44,7 +44,7 @@ console.log(a > b || b == a);
 console.log(a <= b && b != a);
 console.log(a <= b || b == a);
 ```
-![Logical](Logical.PNG)
+![Logical](img/Logical.PNG)
 
 ## Ternary Operator
 
@@ -66,7 +66,7 @@ console.log(z);
 var z = (x<=y && y==x) ? "y-20" : "x+y"
 console.log(z);
 ```
-![](Ternary.PNG)
+![](img/Ternary.PNG)
 
 ## String Operator
 
@@ -78,4 +78,4 @@ console.log(100 + null);
 console.log(100 - "Raj");
 console.log(100 - null);
 ```
-![](String.PNG)
+![](img/String.PNG)

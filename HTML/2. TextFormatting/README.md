@@ -117,4 +117,4 @@
 ## Notes
 
 - Alt the text formatting tags are inline tags.
-  ![](Text%20Formating%20inline.PNG)
+  ![](img/Text%20Formating%20inline.PNG)

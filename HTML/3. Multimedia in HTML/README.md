@@ -18,7 +18,7 @@
    - src stands for source.
 
    ```html
-   <img src="note-taking.png" height="200" width="250" />
+   <img src="img/note-taking.png" height="200" width="250" />
    <img
      src="https://clickup.com/blog/wp-content/uploads/2020/01/note-taking.png"
      height="200"
@@ -26,7 +26,7 @@
    />
    ```
 
-   <img src='note-taking.png' height='200' width='250'>
+   <img src='img/note-taking.png' height='200' width='250'>
    <img src='https://clickup.com/blog/wp-content/uploads/2020/01/note-taking.png' height='200' width='250'>
 
 1. Audio Tag
@@ -36,10 +36,10 @@
    - To get the audio controls like pause and play button, mute and un-mute button, download and playback speed option we have to add 'controls' attribute to the audio tag.
 
    ```html
-   <audio src="Kannada-bgm.mp3" controls></audio>
+   <audio src="img/Kannada-bgm.mp3" controls></audio>
    ```
 
-   <audio src="Kannada-bgm.mp3" controls></audio>
+   <audio src="img/Kannada-bgm.mp3" controls></audio>
 
 1. Video Tag
    - video tag \<video> is used to add the video file to the webpage.

@@ -18,7 +18,7 @@
 - **CSS** is used for styling the web page.
 - **Javascript** is used for performing validation and action in the web page.
 
-![](js.PNG)
+![](img/js.PNG)
 
 1. Javascript is a front end technology which is used to perform validation and action in the client side.
 
@@ -57,7 +57,7 @@
 
 ### output :
 
-![](output.PNG)
+![](img/output.PNG)
 
 ## External Javascript
 

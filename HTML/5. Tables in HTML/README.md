@@ -18,7 +18,7 @@
 
 # Tables in HTML
 
-![](table.PNG)
+![](img/table.PNG)
 
 ## Table Tag in HTML
 

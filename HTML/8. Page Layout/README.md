@@ -16,7 +16,7 @@
 
 # Page Layout
 
-![](Page%20Layout.png)
+![](img/Page%20Layout.png)
 
 # Semantic tags
 

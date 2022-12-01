@@ -98,7 +98,7 @@
   - eg: \<a>
 
 > Example : \<p> is block tag and \<a> is inline tag
-> ![](inline%20and%20block%20tags.PNG)
+> ![](img/inline%20and%20block%20tags.PNG)
 
 ---
 
@@ -111,7 +111,7 @@
 ```
 
 - Break tag is used to break the line
-  > ![break tag](break%20tag.PNG)
+  > ![break tag](img/break%20tag.PNG)
 
 ---
 
@@ -125,4 +125,4 @@
 
 - \<hr> tag or horizontal rule tag is used to display one horizontal line in the webpage. This tag mainly used to separate the contents in the webpage
 
-> ![](hr%20tag.PNG)
+> ![](img/hr%20tag.PNG)

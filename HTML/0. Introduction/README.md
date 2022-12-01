@@ -32,7 +32,7 @@
 
 ---
 
-![Architecture of Web Application](webTech.png)
+![Architecture of Web Application](img/webTech.png)
 
 Any web applications contains 3 layers ie. front end, backend and database.
 
@@ -69,7 +69,7 @@ Example of web application:
 
 ---
 
-![](HTMLTags.drawio.png)
+![](img/HTMLTags.drawio.png)
 
 Any web application can be accessed using the browser. There are different browsers available such as chrome, firefox, opera, IE, safari, etc.
 
