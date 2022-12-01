@@ -15,7 +15,7 @@ console.log(n-m)
 console.log(n*m)
 console.log(n/m)
 ```
-![](Arthmetic.PNG)
+![](img/Arthmetic.PNG)
 
 ## 2. Relational Operators
 ### Example
@@ -44,7 +44,7 @@ console.log(a > b || b == a);
 console.log(a <= b && b != a);
 console.log(a <= b || b == a);
 ```
-![](Logical.PNG)
+![Logical](img/Logical.PNG)
 
 ## Ternary Operator
 
