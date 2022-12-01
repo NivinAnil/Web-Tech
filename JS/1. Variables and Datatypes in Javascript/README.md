@@ -182,8 +182,10 @@ Every Languages will be having different flavours i.e
 1. Number
 1. String
 1. Boolean
-1. nu11
+1. null
 1. undefined
+1. Array
+1. object
 
 ## Number
 

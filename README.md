@@ -4,7 +4,7 @@
 
 ## Indexed by Topic
 - ## HTML
-    1. ### [Introduction](HTML/0.%20Introduction/)
+    0. ### [Introduction](HTML/0.%20Introduction/)
     1. ### [Basic Tags](HTML/1.%20Basic%20Tags/)
     1. ### [Text Formatting](HTML/2.%20TextFormatting/)
     1. ### [Multimedia](HTML/3.%20Multimedia%20in%20HTML/)
@@ -15,7 +15,7 @@
     1. ### [Page Layout](HTML/8.%20Page%20Layout/)
     1. ### [Containers](HTML/Containers/)
 - ## CSS
-    1. ### [Introduction](CSS/1.%20Introduction/)
+    0. ### [Introduction](CSS/1.%20Introduction/)
     1. ### [CSS Selectors](CSS/2.%20CSS%20Selectors/)
     1. ### [Border Properties](CSS/3.%20Border%20Properties/)
     1. ### [Pseudo Class Element Selector](CSS/4.%20Pseudo%20Class%20Element%20Selector/)
@@ -24,8 +24,10 @@
     1. ### [Transformation](CSS/7.%20Transformation/)
     1. ### [Margin & Padding](CSS/8.%20Margin%20and%20Padding/)
 - ## Javascript
-    1. ### [Introduction](JS/0.%20Introduction%20to%20Javascript/)
+    0. ### [Introduction](JS/0.%20Introduction%20to%20Javascript/)
     1. ### [Variables and Datatypes in Javascript](JS/1.%20Variables%20and%20Datatypes%20in%20Javascript/)
+    1. ### [Operator](JS/2.%20Operator/)
+    1. ### [Conditional Control Construct](JS/3.%20Conditional%20Control%20Construct/)
     
     Installation of [VScode](JS/VScode%20Installation/)
     
